@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">AcmeMobileShopping</string>
+    <string name="app_name">ECommerce</string>
     <string name="title_item_detail">Item Detail</string>
     <string name="title_activity_cart">Shopping Cart</string>
     <string name="action_settings">Settings</string>
