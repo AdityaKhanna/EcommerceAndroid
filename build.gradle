@@ -19,6 +19,6 @@ allprojects {
     repositories {
         jcenter()
         //Uncomment to use local file-based adeum-maven-repo, e.g.
-        /maven { url 'file:///Users/mark.prichard/APPDYNAMICS/ECommerce-Android/adeum-maven-repo' }
+        //maven { url 'file:///Users/mark.prichard/APPDYNAMICS/ECommerce-Android/adeum-maven-repo' }
     }
 }
