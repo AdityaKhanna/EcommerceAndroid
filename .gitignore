@@ -37,7 +37,7 @@ lint-results.xml
 
 # Miscellaneous
 *.hprof
-AndroidAgent/
-app/src/androidTest/assets/
-PreferenceConstants.*
 
+app/src/androidTest/assets/
+app/src/main/java/com/appdynamics/demo/android/misc/PreferenceConstants.java
+adeum-maven-repo/
